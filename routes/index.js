@@ -1,4 +1,4 @@
-const router = require('express');
+const router = require('express').Router();
 const apiRoutes = require('./api');
 
 // this makes sure that /api is applied to my api routes
