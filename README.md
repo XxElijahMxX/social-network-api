@@ -45,4 +45,7 @@ https://drive.google.com/file/d/1JIXzkvlduD0GJzDiMfKrQGet7vKpdUUO/view
 There is not a license for this project
 
 ## Submission
-[Github repository]
+[Github repository](https://github.com/XxElijahMxX/social-network-api)
+
+## Questions
+If you have any questions feel free to contact me at https://github.com/XxElijahMxX
