@@ -33,3 +33,16 @@ Users
 https://drive.google.com/file/d/1cPZY06o7pAsf9CYVrhmZSRELyNZDZcSO/view
 Thoughts
 https://drive.google.com/file/d/1JIXzkvlduD0GJzDiMfKrQGet7vKpdUUO/view
+
+## Installation
+- you have to have MongoDB installed
+- clone this repo
+- then install all the dependencies using npm i
+- start the server using npm start
+- then you can test the routes out using postman or insomnia
+
+## License Details
+There is not a license for this project
+
+## Submission
+[Github repository]
