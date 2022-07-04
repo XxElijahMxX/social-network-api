@@ -29,9 +29,9 @@ SO THAT my website can handle large amounts of unstructured data
 - THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
 ## Videos
-Users
+- Users
 https://drive.google.com/file/d/1cPZY06o7pAsf9CYVrhmZSRELyNZDZcSO/view
-Thoughts
+-Thoughts
 https://drive.google.com/file/d/1JIXzkvlduD0GJzDiMfKrQGet7vKpdUUO/view
 
 ## Installation
