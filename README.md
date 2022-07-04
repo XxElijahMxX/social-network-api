@@ -40,6 +40,7 @@ https://drive.google.com/file/d/1JIXzkvlduD0GJzDiMfKrQGet7vKpdUUO/view
 - then install all the dependencies using npm i
 - start the server using npm start
 - then you can test the routes out using postman or insomnia
+- the routes are /api/users, /api/users/:userId, /api/thoughts, /api/thoughts/:thoughtId, /api/users/:/userId/friends/:friendId, /api/thoughts/:thoughtId/reactions
 
 ## License Details
 There is not a license for this project
